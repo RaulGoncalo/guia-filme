@@ -52,10 +52,3 @@ const getMovie = async () => {
 };
 
 searchBtn.addEventListener("click", getMovie);
-
-let todosFIlmes = `http://www.omdbapi.com/?apikey=${key}&type=movie`;
-window.addEventListener("load", () => {
-	fetch(todosFIlmes)
-		.then((res) => res.json())
-		.then((data) => console.log(data));
-});
