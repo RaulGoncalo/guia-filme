@@ -13,6 +13,7 @@ const getMovie = async () => {
 			result.innerHTML = `<h3 class = "msg">Por favor, digite um filme válido</h3>`;
 		} else {
 			const res = await fetch(url);
+			console.log(res);
 			const data = await res.json();
 
 			if (data.Response == "True") {
