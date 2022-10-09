@@ -30,7 +30,7 @@ Instale o live server de forma global
 ```
 
 
-Inicie o servidor
+Inicie com
 
 ```bash
   live-server
@@ -39,5 +39,5 @@ Inicie o servidor
 
 ## Funcionalidade
 
-![App Screenshot](https://github.com/RaulGoncalo/guia-filme/blob/main/Guia_do_filme_-_Google_Chrome_2022-10-09_16-09-59_AdobeExpress%20(1).gif)
+![App Screenshot](https://github.com/RaulGoncalo/guia-filme/blob/main/Guia%20do%20filme%20-%20Google%20Chrome%202022-10-09%2016-09-59_Trim.gif)
 
