@@ -39,5 +39,5 @@ Inicie o servidor
 
 ## Funcionalidade
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/RaulGoncalo/guia-filme/blob/main/Guia_do_filme_-_Google_Chrome_2022-10-09_16-09-59_AdobeExpress%20(1).gif)
 
