@@ -39,6 +39,7 @@ Inicie com
 
 ## Funcionalidade
 
-<img src ="https://github.com/RaulGoncalo/guia-filme/blob/main/Guia%20do%20filme%20-%20Google%20Chrome%202022-10-09%2016-09-59_Trim.gif" />
+<img src ="https://github.com/RaulGoncalo/guia-filme/blob/main/Guia%20do%20filme%20-%20Google%20Chrome%202022-10-09%2016-09-59_Trim.gif" width = "350" heigth="550" />
+
 ![App Screenshot](https://github.com/RaulGoncalo/guia-filme/blob/main/Guia%20do%20filme%20-%20Google%20Chrome%202022-10-09%2016-09-59_Trim.gif)
 
