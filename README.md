@@ -38,5 +38,5 @@ Inicie com
 
 
 ## Funcionando
-![App Screenshot](https://github.com/RaulGoncalo/guia-filme/blob/main/Guia%20do%20filme%20-%20Google%20Chrome%202022-10-09%2016-09-59_Trim.gif)
+![App Screenshot](https://github.com/RaulGoncalo/jogo-da-velha/blob/main/Video_221017204340.mp4)
 
